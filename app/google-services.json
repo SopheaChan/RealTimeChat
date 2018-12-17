@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408872349534",
+    "firebase_url": "https://realtimechat-80449.firebaseio.com",
+    "project_id": "realtimechat-80449",
+    "storage_bucket": "realtimechat-80449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408872349534:android:d0ad9f49c8d9502f",
+        "android_client_info": {
+          "package_name": "com.example.dell.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408872349534-40ot6s0tk8p2uahg0vokgv0dknkgc1ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.chatapp",
+            "certificate_hash": "2d2f57e105033010e4ba919adff1cbf111cb65bb"
+          }
+        },
+        {
+          "client_id": "408872349534-75lt1tmhlvnnd4s25m36990ifgq436ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BBFeWvNuvNKilnFtdT_Q8L_YU_MUAg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408872349534-75lt1tmhlvnnd4s25m36990ifgq436ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
